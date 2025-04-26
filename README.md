@@ -9,18 +9,18 @@
 ---
 
 ### 💼 Sobre mim
-- 🌱 Estudando HTML, CSS, Python
+- 🌱 Estudando HTML, CSS e Python
 - 🎓 Curso Técnico em Informática
-- 🎯 Focada em aprender
 
 ---
 
 ### 🌐 Onde me encontrar
 
-[![Instagram](https://www.instagram.com/thay.souza_lima?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) 
+[![Instagram](https://img.shields.io/badge/@thay.souza__lima-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thay.souza_lima)
 
 ---
 
 <p align="center">
   ☁️ Obrigada por visitar meu perfil! ☁️
 </p>
+
