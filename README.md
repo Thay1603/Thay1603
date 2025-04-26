@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">✨ Oi, eu sou a Thaylanne Souza ✨</h1>
 
-<!--
-**Thay1603/Thay1603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🌸 Técnica em Informática em formação <br>
+💻 Design e organização <br>
+🎀 Sempre aprendendo algo novo <br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Sobre mim
+- 🌱 Estudando HTML, CSS, Python
+- 🎓 Curso Técnico em Informática
+- 🎯 Focada em aprender
+
+---
+
+### 🌐 Onde me encontrar
+
+[![Instagram](https://www.instagram.com/thay.souza_lima?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) 
+
+---
+
+<p align="center">
+  ☁️ Obrigada por visitar meu perfil! ☁️
+</p>
